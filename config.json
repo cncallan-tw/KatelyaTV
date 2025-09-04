@@ -1,5 +1,4 @@
 {
- {
   "cache_time": 7200,
   "api_site": {
     "1080zyku": {
@@ -451,9 +450,6 @@
     "qiqidys": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
-    }
-  }
-}
     }
   }
 }
